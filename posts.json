@@ -1,5 +1,6 @@
-[
-    {
+{
+  "posts": [
+  {
             "id": 8440,
             "url": "https://www.cultura.gob.ar/api/v2.0/convocatorias/8440/",
             "link": "https://www.cultura.gob.ar/audiciones-para-la-orquesta-sinfonica-nacional-8440/",
@@ -263,4 +264,9 @@
             "fecha_fin": "2019-10-01",
             "documentos": []
         }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
 ]        
